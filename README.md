@@ -1,6 +1,7 @@
 # bio
 
 [![Join the chat at https://gitter.im/hramz/bio](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hramz/bio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 framework для работы c протоколом мыслеформ, биочислами и знаниями поступающими на орбиту планеты Земля 24/7.
 
 Применение - биоинформатика + генетика + наука, цифровые голографические нейросети, астрология + астрономия, аналитические рекламные lifestyle технологии конверсии клиентов.
@@ -34,6 +35,7 @@ framework для работы c протоколом мыслеформ, био�
 
 Фрагмент числовой информации ритмично поступающей на орбиту планеты Земля 24/7 (todo)
 
-https://gitter.im/hramz/bio
+[![Join the chat at https://gitter.im/hramz/bio](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hramz/bio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
