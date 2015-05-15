@@ -47,5 +47,5 @@ framework для работы c протоколом мыслеформ, био�
 
 [![Join the chat at https://gitter.im/hramz/bio](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hramz/bio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
+http://hramz.ru
 
