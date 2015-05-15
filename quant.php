@@ -17,7 +17,7 @@ $biochislo= str_replace("г", "8", $biochislo);    $biochislo= str_replace("у",
 $biochislo= str_replace("ж", "9", $biochislo);    $biochislo= str_replace("р", "9", $biochislo);    $biochislo= str_replace("ш", "9", $biochislo);                                                       //9
 
 $energy=$biochislo % 9;
-if ($energy==0) { $energy=9; }
+// if ($energy==0) { $energy=9; } 
 
 echo "--- Свойства Кванта ---"."<br><br>";
 
