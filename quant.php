@@ -17,7 +17,7 @@ $biochislo= str_replace("ж", "9", $biochislo);    $biochislo= str_replace("р",
 $energy=$biochislo % 9;
 // if ($energy==0) { $energy=9; } 
 
-echo "--- Свойства Кванта Мысли ---"."<br><br>";
+echo "--- Свойства Кванта Мысли ---<br><br>";
 
 echo "Мысль=".$Misl."<br>";
 echo "Биочисло=".$biochislo."<br>";
