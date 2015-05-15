@@ -18,6 +18,6 @@ $biochislo= str_replace("ж", "9", $biochislo);    $biochislo= str_replace("р",
 $suma=$biochislo % 9;
 
 echo "Биочисло=".$biochislo;
-echo "Энергия=".$suma
+echo "Энергия=".$suma;
 
 ?>
