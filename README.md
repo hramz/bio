@@ -5,6 +5,7 @@
 Идеи, предложения, вопросы
 
 https://hramz.userecho.com/topic/736860-bio-framework
+
 https://github.com/hramz/bio/issues
 
 framework для работы c протоколом мыслеформ, биочислами и знаниями поступающими на орбиту планеты Земля 24/7.
