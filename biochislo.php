@@ -1,6 +1,8 @@
 <?
 
-$biochislo=$smisl; // (входящий квант - смысл, образ, вопроса, ответ, сообщение)
+$idea="знания"; // мысль
+
+$biochislo=$idea; // (входящий квант - смысл, образ, вопроса, ответ, сообщение)
 
 // todo все в маленькие + оставить только 33 буквы без шумов
 
@@ -16,7 +18,8 @@ $biochislo= str_replace("ж", "9", $biochislo);    $biochislo= str_replace("р",
 
 $suma=$biochislo % 9;
 
-echo "Биочисло=".$biochislo;
-echo " Энергия=".$suma;
+echo "   Квант=".$idea."<br>";
+echo "Биочисло=".$biochislo."<br>";
+echo " Энергия=".$suma."<br>";
 
 ?>
