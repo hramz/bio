@@ -4,8 +4,6 @@ $Misl="квант"; // (входящая мысль - смысл, идея, об
 
 $biochislo=$Misl;
 
-// todo все в маленькие + оставить только 33 буквы без шумов
-
 $biochislo= str_replace("и", "1", $biochislo);    $biochislo= str_replace("с", "1", $biochislo);    $biochislo= str_replace("э", "1", $biochislo);                                                       //1
 $biochislo= str_replace("а", "2", $biochislo);    $biochislo= str_replace("й", "2", $biochislo);    $biochislo= str_replace("т", "2", $biochislo);    $biochislo= str_replace("п", "2", $biochislo);     //2
 $biochislo= str_replace("б", "3", $biochislo);    $biochislo= str_replace("з", "3", $biochislo);    $biochislo= str_replace("м", "3", $biochislo);    $biochislo= str_replace("ю", "3", $biochislo);     //3
