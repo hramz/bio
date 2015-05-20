@@ -49,7 +49,7 @@ http://www.youtube.com/watch?v=iFAzX-Rm178
 
 Базовая информация для погружения ныряльщиков :) ... https://github.com/hramz/bio/wiki
 
-Почему Четыри https://github.com/hramz/bio/wiki/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B8
+Почему Четыри http://bit.ly/1PVWjlW
 
 МАЛО КТО ПОДОЗРЕВАЕТ, ОТКУДА К ЧЕЛОВЕЧЕСТВУ ПРИХОДЯТ ЗНАНИЯ ГДЕ ИХ ПРАРОДИНА ЗЕМЛЯНЕ! http://bit.ly/1FzUR9B
 
