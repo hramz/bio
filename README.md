@@ -49,6 +49,8 @@ http://www.youtube.com/watch?v=iFAzX-Rm178
 
 Базовая информация для погружения ныряльщиков :) ... https://github.com/hramz/bio/wiki
 
+Почему Четыри https://github.com/hramz/bio/wiki/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B8
+
 Числовой поток информации направленный из Созвездий в Солнечную систему на орбиту Земли. Данная информация пока что не расшифрована. (todo)
 
 https://www.facebook.com/hramzru/photos/a.761621457268524.1073741830.635486993215305/761621477268522/?type=3&theater
