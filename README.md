@@ -59,7 +59,7 @@ https://www.facebook.com/hramzru/photos/a.761621457268524.1073741830.63548699321
 
 Что такое сверхгигантский код сверхгигантского генома? (todo)
 
-Темы встреч https://github.com/hramz/bio/wiki/%D0%A2%D0%B5%D0%BC%D1%8B-%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87
+Темы встреч http://bit.ly/1PyhiAH
 
 [![Join the chat at https://gitter.im/hramz/bio](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hramz/bio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
