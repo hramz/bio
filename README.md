@@ -24,7 +24,7 @@ http://on.fb.me/1HgEObv
 
 Первое объяснение что такое Матрица
 
-http://www.youtube.com/watch?v=iFAzX-Rm178
+http://www.youtube.com/watch?v=ZR1FfSsiG_Y
 
 1=один=6+5+1+7=19=1+9=10=1+0=1
 
