@@ -4,6 +4,8 @@
 
 Идеи, предложения, вопросы
 
+https://twitter.com/hramzru
+
 https://hramz.userecho.com/topic/736860-bio-framework
 
 https://github.com/hramz/bio/issues
