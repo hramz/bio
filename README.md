@@ -67,3 +67,6 @@ http://on.fb.me/1Bdw5VB
 
 http://hramz.ru
 
++
+Заводы по расшифровки генома sequenom.com + Таблица ключ для расшифровки Генома http://on.fb.me/1QD6T1J
+
